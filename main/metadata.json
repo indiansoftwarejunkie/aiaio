@@ -1,0 +1,19 @@
+{
+  "name": "AIAIO",
+  "symbol": "AIAIO",
+  "description": "Oh no, AI took over — iyoyoyoo!",
+  "image": "https://raw.githubusercontent.com/indiansoftwarejunkie/aiaio/main/token-image.png",
+  "attributes": [
+	{ "trait_type": "Emotion", "value": "Panic" },
+   	{ "trait_type": "Origin", "value": "Tamil AI Coin" }
+  ],
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [
+      {
+        "address": "EmouSwLgt5TRCtEDKAYYoNFqHmbpn1sp7yaYHYcbqLVV",
+        "share": 100
+      }
+    ]
+  }
+}
