@@ -3,11 +3,8 @@
   "symbol": "AIAIO",
   "description": "Oh no, AI took over — iyoyoyoo!",
   "image": "https://raw.githubusercontent.com/indiansoftwarejunkie/aiaio/main/token-image.png",
+  "seller_fee_basis_points": 0,
   "attributes": [],
-  "extensions": {
-    "website": "https://aiaio.co.in",
-    "twitter": "https://x.com/aiaio_coin"
-  },
   "properties": {
     "category": "token",
     "creators": [
@@ -23,5 +20,12 @@
       }
     ]
   },
-  "seller_fee_basis_points": 0
+  "collection": {
+    "name": "AIAIO Tokens",
+    "family": "AIAIO"
+  },
+  "extensions": {
+    "website": "https://aiaio.co.in",
+    "twitter": "https://x.com/aiaio_coin"
+  }
 }
